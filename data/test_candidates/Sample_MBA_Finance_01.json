@@ -1,0 +1,27 @@
+{
+  "candidate_id": "Sample_MBA_Finance_01",
+  "degree": {
+    "level": "BCom",
+    "institution": "Symbiosis International",
+    "gpa": 3.7,
+    "graduation_year": 2020
+  },
+  "subjects": [
+    "financial accounting", "corporate finance", "cost accounting",
+    "business law", "economics", "taxation", "auditing"
+  ],
+  "experience_years": 3,
+  "experience": [
+    {
+      "role": "Senior Associate, Healthcare Audit",
+      "organization": "Deloitte India",
+      "duration_months": 36,
+      "description": "Conducted financial audits for hospital chains and payer organizations. Worked on revenue cycle optimization projects, analyzed reimbursement models and payer contracting structures. Built capital allocation models for healthcare clients and supported quantitative financial analysis."
+    }
+  ],
+  "certifications": ["CPA US Candidate"],
+  "strengths": [
+    "Judgment", "Prudence", "Honesty", "Perseverance", "Self-Regulation"
+  ],
+  "sop": "Three years at Deloitte doing healthcare audit taught me a lot about how money moves through health systems — revenue cycle, payer contracting, reimbursement. But I want to go beyond auditing into the strategic finance side. I'm interested in how health systems should think about capital allocation and value-based care models. The goal is to eventually be on a healthcare CFO track where I can shape financial strategy, not just review it."
+}

@@ -1,0 +1,33 @@
+{
+  "candidate_id": "Sample_MHA_LTC_01",
+  "degree": {
+    "level": "BSc Nursing",
+    "institution": "AIIMS Delhi",
+    "gpa": 3.8,
+    "graduation_year": 2019
+  },
+  "subjects": [
+    "anatomy", "physiology", "geriatric nursing", "community health nursing",
+    "mental health nursing", "pharmacology", "nursing administration"
+  ],
+  "experience_years": 4,
+  "experience": [
+    {
+      "role": "General Ward Nurse",
+      "organization": "Apollo Hospitals",
+      "duration_months": 24,
+      "description": "Provided bedside care in the general medical ward. Participated in hospital quality improvement committees and learned how the operations side works."
+    },
+    {
+      "role": "Geriatric Unit Nurse",
+      "organization": "Apollo Hospitals",
+      "duration_months": 24,
+      "description": "Worked in the geriatric unit focusing on long-term care patients and aging populations. Got involved in memory care program design and quality improvement initiatives for elderly patients."
+    }
+  ],
+  "certifications": [],
+  "strengths": [
+    "Kindness", "Perspective", "Leadership", "Teamwork", "Gratitude"
+  ],
+  "sop": "After four years of bedside nursing — two in general wards and two in the geriatric unit at Apollo — I want to move into managing long-term care facilities. Working with aging populations has been the most meaningful part of my career so far. I got really interested in memory care program design and how quality improvement can make a real difference for elderly patients. I want to take my clinical knowledge and apply it to the management and operations side of long-term care."
+}

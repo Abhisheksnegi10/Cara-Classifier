@@ -1,0 +1,27 @@
+{
+  "candidate_id": "Sample_MPH_Community_01",
+  "degree": {
+    "level": "BA",
+    "institution": "University of Mumbai",
+    "gpa": 3.5,
+    "graduation_year": 2022
+  },
+  "subjects": [
+    "sociology", "community development", "social research methods",
+    "health & society", "cultural anthropology", "gender studies"
+  ],
+  "experience_years": 1,
+  "experience": [
+    {
+      "role": "Community Outreach Coordinator",
+      "organization": "Rural Health NGO",
+      "duration_months": 12,
+      "description": "Coordinated outreach programs in rural villages focusing on disease prevention and health promotion. Organized education sessions on social determinants of health and worked to improve health equity in underserved communities."
+    }
+  ],
+  "certifications": [],
+  "strengths": [
+    "Kindness", "Social Intelligence", "Teamwork", "Fairness", "Perspective"
+  ],
+  "sop": "Growing up I saw how unequal health access is in rural India, and that's what pulled me toward sociology. After graduating, working as a community outreach coordinator at an NGO showed me that real change happens on the ground — through community health programs, outreach, and education, not just top-down policy. I want to learn how to design programs that actually address social determinants and improve health equity for underserved populations. Long term, I'd love to lead health equity programs at a state health department."
+}

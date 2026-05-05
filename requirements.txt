@@ -1,0 +1,2 @@
+rapidfuzz>=3.0         # fuzzy string matching for subject lookup
+pytest>=7.4            # unit testing

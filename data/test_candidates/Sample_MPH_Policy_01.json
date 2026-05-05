@@ -1,0 +1,27 @@
+{
+  "candidate_id": "Sample_MPH_Policy_01",
+  "degree": {
+    "level": "BA",
+    "institution": "St. Xavier's College Mumbai",
+    "gpa": 3.4,
+    "graduation_year": 2023
+  },
+  "subjects": [
+    "indian politics", "public policy", "constitutional law",
+    "international relations", "political philosophy", "public administration"
+  ],
+  "experience_years": 0,
+  "experience": [
+    {
+      "role": "Policy Research Intern",
+      "organization": "Health Policy Think Tank",
+      "duration_months": 3,
+      "description": "Interned at a health policy think tank. Assisted with research on government health policy, advocacy campaigns, and regulatory analysis. Got exposure to how policy and legislation around healthcare actually works."
+    }
+  ],
+  "certifications": [],
+  "strengths": [
+    "Leadership", "Perspective", "Judgment", "Social Intelligence", "Fairness"
+  ],
+  "sop": "I'm passionate about using policy levers to improve healthcare access in India. Studying political science gave me the foundation, and my internship at a health policy think tank showed me how advocacy and legislation can actually drive change. I was really inspired by the Ayushman Bharat scheme and want to understand how policy like that gets designed and implemented. I want to work in government health policy or advocacy — the long-term goal is to be part of shaping national health legislation."
+}

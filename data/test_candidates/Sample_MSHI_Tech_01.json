@@ -1,0 +1,27 @@
+{
+  "candidate_id": "Sample_MSHI_Tech_01",
+  "degree": {
+    "level": "BTech",
+    "institution": "VIT Vellore",
+    "gpa": 3.6,
+    "graduation_year": 2021
+  },
+  "subjects": [
+    "data structures", "algorithms", "database systems",
+    "python", "java", "machine learning", "cloud computing"
+  ],
+  "experience_years": 2,
+  "experience": [
+    {
+      "role": "Software Developer",
+      "organization": "Health-tech Startup",
+      "duration_months": 24,
+      "description": "Built EHR integration modules and worked on clinical decision support features. Spent a lot of time on FHIR interoperability issues and ehr optimization. Helped set up data governance practices for clinical workflows."
+    }
+  ],
+  "certifications": ["AWS Cloud Practitioner"],
+  "strengths": [
+    "Curiosity", "Judgment", "Love of Learning", "Creativity", "Perseverance"
+  ],
+  "sop": "I studied CS at VIT and then spent two years at a health-tech startup building EHR integration tools. That experience showed me the gap between what technology can do and what actually gets deployed in clinical settings. I want to bridge clinical workflows with technology — specifically around EHR optimization, FHIR interoperability, and clinical decision support systems. Long term I want to be a Director of Health Informatics where I can drive how hospitals adopt and use technology."
+}

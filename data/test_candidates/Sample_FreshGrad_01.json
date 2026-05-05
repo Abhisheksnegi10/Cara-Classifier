@@ -1,0 +1,20 @@
+{
+  "candidate_id": "Sample_FreshGrad_01",
+  "degree": {
+    "level": "BDS",
+    "institution": "Maharashtra University of Health Sciences",
+    "gpa": null,
+    "graduation_year": 2024
+  },
+  "subjects": [
+    "anatomy", "physiology", "biochemistry", "pathology",
+    "pharmacology", "community medicine", "oral medicine", "dental surgery"
+  ],
+  "experience_years": 0,
+  "experience": [],
+  "certifications": [],
+  "strengths": [
+    "Judgment", "Leadership", "Perspective", "Honesty", "Social Intelligence"
+  ],
+  "sop": "After completing my BDS, I realized that my interests lie more on the management side than in clinical practice. During my internship rotations, I was drawn to how hospitals are run — the administrative leadership challenges, quality improvement initiatives, and the coordination involved in keeping a large health system functioning smoothly. I want to be part of shaping how healthcare organizations operate, specifically in areas like accreditation and risk management. I see myself leading operations at a multi-specialty hospital someday."
+}
