@@ -98,8 +98,9 @@ SUBJECT_CLUSTERS = {
 
 
 # Career Tracks (T01 - T11)
-# used claude to help me build out the keyword lists for these since there
-# were a lot of domain terms i wasn't sure about. reviewed everything after.
+# keyword lists derived from the assessment brief's "What to Look for" 
+# column for each track. expanded a few terms that appeared in test 
+# candidates but weren't in the brief (e.g. geriatric, memory care).
 
 CAREER_TRACKS = {
     "T01": {
