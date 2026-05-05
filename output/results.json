@@ -14,7 +14,7 @@
           "experience": 0.0,
           "strengths": 0.75
         },
-        "rationale": "Academic background in Life Sciences, Health & Clinical, Physical Sciences aligns with this track. SOP references: administrative leadership, quality improvement, hospital. Strengths (Leadership, Judgment, Perspective) align with this track's profile."
+        "rationale": "Academic background in Life Sciences, Health & Clinical, Physical Sciences aligns with this track. SOP references: administrative leadership, quality improvement, hospital. Strengths (Leadership, Perspective, Judgment) align with this track's profile."
       },
       {
         "rank": 2,
@@ -59,7 +59,7 @@
           "experience": 0.4728,
           "strengths": 1.0
         },
-        "rationale": "Academic background in Business & Management, Quant & Analytical aligns with this track. SOP references: finance, cfo, revenue cycle. 3 years of relevant experience reinforces this fit. Strengths (Perseverance, Prudence, Judgment) align with this track's profile."
+        "rationale": "Academic background in Business & Management, Quant & Analytical aligns with this track. SOP references: finance, cfo, revenue cycle. 3 years of relevant experience reinforces this fit. Strengths (Judgment, Prudence, Perseverance) align with this track's profile."
       },
       {
         "rank": 2,
@@ -104,7 +104,7 @@
           "experience": 0.6304,
           "strengths": 0.75
         },
-        "rationale": "Academic background in Health & Clinical, Life Sciences aligns with this track. SOP references: quality improvement, hospital, operations. 4 years of relevant experience reinforces this fit. Strengths (Leadership, Teamwork, Perspective) align with this track's profile."
+        "rationale": "Academic background in Health & Clinical, Life Sciences aligns with this track. SOP references: quality improvement, hospital, operations. 4 years of relevant experience reinforces this fit. Strengths (Leadership, Perspective, Teamwork) align with this track's profile."
       },
       {
         "rank": 2,
@@ -117,7 +117,7 @@
           "experience": 0.0,
           "strengths": 0.5
         },
-        "rationale": "Academic background in Health & Clinical, Life Sciences aligns with this track. Strengths (Teamwork, Kindness) align with this track's profile."
+        "rationale": "Academic background in Health & Clinical, Life Sciences aligns with this track. Strengths (Kindness, Teamwork) align with this track's profile."
       },
       {
         "rank": 3,
@@ -149,7 +149,7 @@
           "experience": 0.1795,
           "strengths": 1.0
         },
-        "rationale": "Academic background in Social & Behavioral aligns with this track. SOP references: community health, health equity, disease prevention. Strengths (Teamwork, Social Intelligence, Kindness) align with this track's profile."
+        "rationale": "Academic background in Social & Behavioral aligns with this track. SOP references: community health, health equity, disease prevention. Strengths (Social Intelligence, Kindness, Teamwork) align with this track's profile."
       },
       {
         "rank": 2,
@@ -162,7 +162,7 @@
           "experience": 0.0,
           "strengths": 1.0
         },
-        "rationale": "Academic background in Social & Behavioral aligns with this track. Strengths (Teamwork, Social Intelligence, Kindness) align with this track's profile."
+        "rationale": "Academic background in Social & Behavioral aligns with this track. Strengths (Social Intelligence, Kindness, Teamwork) align with this track's profile."
       },
       {
         "rank": 3,
@@ -175,7 +175,7 @@
           "experience": 0.0,
           "strengths": 0.75
         },
-        "rationale": "Academic background in Social & Behavioral aligns with this track. Strengths (Perspective, Social Intelligence, Fairness) align with this track's profile."
+        "rationale": "Academic background in Social & Behavioral aligns with this track. Strengths (Social Intelligence, Perspective, Fairness) align with this track's profile."
       }
     ]
   },
@@ -194,7 +194,7 @@
           "experience": 0.0,
           "strengths": 1.0
         },
-        "rationale": "Academic background in Policy, Law & Ethics aligns with this track. SOP references: policy, legislation, advocacy. Strengths (Leadership, Social Intelligence, Fairness) align with this track's profile."
+        "rationale": "Academic background in Policy, Law & Ethics aligns with this track. SOP references: policy, legislation, advocacy. Strengths (Social Intelligence, Leadership, Perspective) align with this track's profile."
       },
       {
         "rank": 2,
@@ -239,7 +239,7 @@
           "experience": 0.3508,
           "strengths": 1.0
         },
-        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. SOP references: ehr, interoperability, fhir. 2 years of relevant experience reinforces this fit. Strengths (Curiosity, Love of Learning, Creativity) align with this track's profile."
+        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. SOP references: ehr, interoperability, fhir. 2 years of relevant experience reinforces this fit. Strengths (Creativity, Love of Learning, Curiosity) align with this track's profile."
       },
       {
         "rank": 2,
@@ -252,7 +252,7 @@
           "experience": 0.1081,
           "strengths": 0.75
         },
-        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. SOP references: startup, build. Strengths (Curiosity, Perseverance, Creativity) align with this track's profile."
+        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. SOP references: startup, build. Strengths (Creativity, Curiosity, Perseverance) align with this track's profile."
       },
       {
         "rank": 3,
@@ -265,7 +265,7 @@
           "experience": 0.0,
           "strengths": 1.0
         },
-        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. Strengths (Curiosity, Perseverance, Love of Learning) align with this track's profile."
+        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. Strengths (Love of Learning, Curiosity, Perseverance) align with this track's profile."
       }
     ]
   }
