@@ -1,0 +1,272 @@
+[
+  {
+    "candidate_id": "Sample_FreshGrad_01",
+    "recommended_degree": "MHA",
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T01",
+        "track_name": "Healthcare Administration, Operations, Quality & Risk",
+        "composite_score": 0.5997,
+        "signal_scores": {
+          "subject": 0.6667,
+          "sop": 0.8326,
+          "experience": 0.0,
+          "strengths": 0.75
+        },
+        "rationale": "Academic background in Life Sciences, Health & Clinical, Physical Sciences aligns with this track. SOP references: administrative leadership, quality improvement, hospital. Strengths (Leadership, Judgment, Perspective) align with this track's profile."
+      },
+      {
+        "rank": 2,
+        "track_id": "T04",
+        "track_name": "Behavioral Health & Human Services Management",
+        "composite_score": 0.375,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.0,
+          "experience": 0.0,
+          "strengths": 0.25
+        },
+        "rationale": "Academic background in Life Sciences, Health & Clinical, Physical Sciences aligns with this track."
+      },
+      {
+        "rank": 3,
+        "track_id": "T08",
+        "track_name": "Environmental, Occupational & Climate Health",
+        "composite_score": 0.35,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.0,
+          "experience": 0.0,
+          "strengths": 0.0
+        },
+        "rationale": "Academic background in Life Sciences, Health & Clinical, Physical Sciences aligns with this track."
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MBA_Finance_01",
+    "recommended_degree": "MBA-HC",
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T03",
+        "track_name": "Healthcare Finance, Payer Strategy & Value-Based Care",
+        "composite_score": 0.8626,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.9086,
+          "experience": 0.4728,
+          "strengths": 1.0
+        },
+        "rationale": "Academic background in Business & Management, Quant & Analytical aligns with this track. SOP references: finance, cfo, revenue cycle. 3 years of relevant experience reinforces this fit. Strengths (Perseverance, Prudence, Judgment) align with this track's profile."
+      },
+      {
+        "rank": 2,
+        "track_id": "T02",
+        "track_name": "Healthcare Consulting & Advisory",
+        "composite_score": 0.6129,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.5,
+          "experience": 0.1893,
+          "strengths": 0.5
+        },
+        "rationale": "Academic background in Business & Management, Quant & Analytical aligns with this track. SOP references: strategy, client. Strengths (Perseverance, Judgment) align with this track's profile."
+      },
+      {
+        "rank": 3,
+        "track_id": "T01",
+        "track_name": "Healthcare Administration, Operations, Quality & Risk",
+        "composite_score": 0.5522,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.4163,
+          "experience": 0.1576,
+          "strengths": 0.25
+        },
+        "rationale": "Academic background in Business & Management, Quant & Analytical aligns with this track. SOP references: hospital, health system."
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MHA_LTC_01",
+    "recommended_degree": "MHA",
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T01",
+        "track_name": "Healthcare Administration, Operations, Quality & Risk",
+        "composite_score": 0.7258,
+        "signal_scores": {
+          "subject": 0.6667,
+          "sop": 0.8326,
+          "experience": 0.6304,
+          "strengths": 0.75
+        },
+        "rationale": "Academic background in Health & Clinical, Life Sciences aligns with this track. SOP references: quality improvement, hospital, operations. 4 years of relevant experience reinforces this fit. Strengths (Leadership, Teamwork, Perspective) align with this track's profile."
+      },
+      {
+        "rank": 2,
+        "track_id": "T04",
+        "track_name": "Behavioral Health & Human Services Management",
+        "composite_score": 0.4,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.0,
+          "experience": 0.0,
+          "strengths": 0.5
+        },
+        "rationale": "Academic background in Health & Clinical, Life Sciences aligns with this track. Strengths (Teamwork, Kindness) align with this track's profile."
+      },
+      {
+        "rank": 3,
+        "track_id": "T08",
+        "track_name": "Environmental, Occupational & Climate Health",
+        "composite_score": 0.35,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.0,
+          "experience": 0.0,
+          "strengths": 0.0
+        },
+        "rationale": "Academic background in Health & Clinical, Life Sciences aligns with this track."
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MPH_Community_01",
+    "recommended_degree": "MPH",
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T05",
+        "track_name": "Public, Community & Global Health Programs",
+        "composite_score": 0.6964,
+        "signal_scores": {
+          "subject": 0.6667,
+          "sop": 0.9349,
+          "experience": 0.1795,
+          "strengths": 1.0
+        },
+        "rationale": "Academic background in Social & Behavioral aligns with this track. SOP references: community health, health equity, disease prevention. Strengths (Teamwork, Social Intelligence, Kindness) align with this track's profile."
+      },
+      {
+        "rank": 2,
+        "track_id": "T04",
+        "track_name": "Behavioral Health & Human Services Management",
+        "composite_score": 0.45,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.0,
+          "experience": 0.0,
+          "strengths": 1.0
+        },
+        "rationale": "Academic background in Social & Behavioral aligns with this track. Strengths (Teamwork, Social Intelligence, Kindness) align with this track's profile."
+      },
+      {
+        "rank": 3,
+        "track_id": "T07",
+        "track_name": "Health Policy, Economics & Advocacy",
+        "composite_score": 0.406,
+        "signal_scores": {
+          "subject": 0.6667,
+          "sop": 0.2789,
+          "experience": 0.0,
+          "strengths": 0.75
+        },
+        "rationale": "Academic background in Social & Behavioral aligns with this track. Strengths (Perspective, Social Intelligence, Fairness) align with this track's profile."
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MPH_Policy_01",
+    "recommended_degree": "MPH",
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T07",
+        "track_name": "Health Policy, Economics & Advocacy",
+        "composite_score": 0.6428,
+        "signal_scores": {
+          "subject": 0.6667,
+          "sop": 0.8842,
+          "experience": 0.0,
+          "strengths": 1.0
+        },
+        "rationale": "Academic background in Policy, Law & Ethics aligns with this track. SOP references: policy, legislation, advocacy. Strengths (Leadership, Social Intelligence, Fairness) align with this track's profile."
+      },
+      {
+        "rank": 2,
+        "track_id": "T08",
+        "track_name": "Environmental, Occupational & Climate Health",
+        "composite_score": 0.4937,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.3155,
+          "experience": 0.0,
+          "strengths": 0.3333
+        },
+        "rationale": "Academic background in Policy, Law & Ethics aligns with this track. SOP references: exposure."
+      },
+      {
+        "rank": 3,
+        "track_id": "T04",
+        "track_name": "Behavioral Health & Human Services Management",
+        "composite_score": 0.4,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.0,
+          "experience": 0.0,
+          "strengths": 0.5
+        },
+        "rationale": "Academic background in Policy, Law & Ethics aligns with this track. Strengths (Social Intelligence, Fairness) align with this track's profile."
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MSHI_Tech_01",
+    "recommended_degree": "MSHI",
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T09",
+        "track_name": "Digital Health, Informatics & Data Governance",
+        "composite_score": 0.7204,
+        "signal_scores": {
+          "subject": 0.6667,
+          "sop": 0.9053,
+          "experience": 0.3508,
+          "strengths": 1.0
+        },
+        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. SOP references: ehr, interoperability, fhir. 2 years of relevant experience reinforces this fit. Strengths (Curiosity, Love of Learning, Creativity) align with this track's profile."
+      },
+      {
+        "rank": 2,
+        "track_id": "T11",
+        "track_name": "Healthcare Entrepreneurship, Product & Innovation",
+        "composite_score": 0.4799,
+        "signal_scores": {
+          "subject": 0.6667,
+          "sop": 0.4283,
+          "experience": 0.1081,
+          "strengths": 0.75
+        },
+        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. SOP references: startup, build. Strengths (Curiosity, Perseverance, Creativity) align with this track's profile."
+      },
+      {
+        "rank": 3,
+        "track_id": "T06",
+        "track_name": "Population Health Analytics, Epidemiology & Outcomes Research",
+        "composite_score": 0.45,
+        "signal_scores": {
+          "subject": 1.0,
+          "sop": 0.0,
+          "experience": 0.0,
+          "strengths": 1.0
+        },
+        "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. Strengths (Curiosity, Perseverance, Love of Learning) align with this track's profile."
+      }
+    ]
+  }
+]
