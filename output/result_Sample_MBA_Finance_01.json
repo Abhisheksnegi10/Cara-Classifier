@@ -1,0 +1,45 @@
+{
+  "candidate_id": "Sample_MBA_Finance_01",
+  "recommended_degree": "MBA-HC",
+  "top_career_tracks": [
+    {
+      "rank": 1,
+      "track_id": "T03",
+      "track_name": "Healthcare Finance, Payer Strategy & Value-Based Care",
+      "composite_score": 0.8626,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.9086,
+        "experience": 0.4728,
+        "strengths": 1.0
+      },
+      "rationale": "Academic background in Business & Management, Quant & Analytical aligns with this track. SOP references: finance, cfo, revenue cycle. 3 years of relevant experience reinforces this fit. Strengths (Prudence, Perseverance, Judgment) align with this track's profile."
+    },
+    {
+      "rank": 2,
+      "track_id": "T02",
+      "track_name": "Healthcare Consulting & Advisory",
+      "composite_score": 0.6129,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.5,
+        "experience": 0.1893,
+        "strengths": 0.5
+      },
+      "rationale": "Academic background in Business & Management, Quant & Analytical aligns with this track. SOP references: strategy, client. Strengths (Perseverance, Judgment) align with this track's profile."
+    },
+    {
+      "rank": 3,
+      "track_id": "T01",
+      "track_name": "Healthcare Administration, Operations, Quality & Risk",
+      "composite_score": 0.5522,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.4163,
+        "experience": 0.1576,
+        "strengths": 0.25
+      },
+      "rationale": "Academic background in Business & Management, Quant & Analytical aligns with this track. SOP references: hospital, health system."
+    }
+  ]
+}

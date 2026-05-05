@@ -1,0 +1,45 @@
+{
+  "candidate_id": "Sample_MPH_Community_01",
+  "recommended_degree": "MPH",
+  "top_career_tracks": [
+    {
+      "rank": 1,
+      "track_id": "T05",
+      "track_name": "Public, Community & Global Health Programs",
+      "composite_score": 0.6964,
+      "signal_scores": {
+        "subject": 0.6667,
+        "sop": 0.9349,
+        "experience": 0.1795,
+        "strengths": 1.0
+      },
+      "rationale": "Academic background in Social & Behavioral aligns with this track. SOP references: community health, health equity, disease prevention. Strengths (Kindness, Social Intelligence, Fairness) align with this track's profile."
+    },
+    {
+      "rank": 2,
+      "track_id": "T04",
+      "track_name": "Behavioral Health & Human Services Management",
+      "composite_score": 0.45,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.0,
+        "experience": 0.0,
+        "strengths": 1.0
+      },
+      "rationale": "Academic background in Social & Behavioral aligns with this track. Strengths (Kindness, Social Intelligence, Fairness) align with this track's profile."
+    },
+    {
+      "rank": 3,
+      "track_id": "T07",
+      "track_name": "Health Policy, Economics & Advocacy",
+      "composite_score": 0.406,
+      "signal_scores": {
+        "subject": 0.6667,
+        "sop": 0.2789,
+        "experience": 0.0,
+        "strengths": 0.75
+      },
+      "rationale": "Academic background in Social & Behavioral aligns with this track. Strengths (Social Intelligence, Fairness, Perspective) align with this track's profile."
+    }
+  ]
+}

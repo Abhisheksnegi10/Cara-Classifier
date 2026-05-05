@@ -1,0 +1,45 @@
+{
+  "candidate_id": "Sample_MPH_Policy_01",
+  "recommended_degree": "MPH",
+  "top_career_tracks": [
+    {
+      "rank": 1,
+      "track_id": "T07",
+      "track_name": "Health Policy, Economics & Advocacy",
+      "composite_score": 0.6428,
+      "signal_scores": {
+        "subject": 0.6667,
+        "sop": 0.8842,
+        "experience": 0.0,
+        "strengths": 1.0
+      },
+      "rationale": "Academic background in Policy, Law & Ethics aligns with this track. SOP references: policy, legislation, advocacy. Strengths (Perspective, Leadership, Fairness) align with this track's profile."
+    },
+    {
+      "rank": 2,
+      "track_id": "T08",
+      "track_name": "Environmental, Occupational & Climate Health",
+      "composite_score": 0.4937,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.3155,
+        "experience": 0.0,
+        "strengths": 0.3333
+      },
+      "rationale": "Academic background in Policy, Law & Ethics aligns with this track. SOP references: exposure."
+    },
+    {
+      "rank": 3,
+      "track_id": "T04",
+      "track_name": "Behavioral Health & Human Services Management",
+      "composite_score": 0.4,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.0,
+        "experience": 0.0,
+        "strengths": 0.5
+      },
+      "rationale": "Academic background in Policy, Law & Ethics aligns with this track. Strengths (Fairness, Social Intelligence) align with this track's profile."
+    }
+  ]
+}

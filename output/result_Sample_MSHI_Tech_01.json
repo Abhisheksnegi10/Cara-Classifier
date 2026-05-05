@@ -1,0 +1,45 @@
+{
+  "candidate_id": "Sample_MSHI_Tech_01",
+  "recommended_degree": "MSHI",
+  "top_career_tracks": [
+    {
+      "rank": 1,
+      "track_id": "T09",
+      "track_name": "Digital Health, Informatics & Data Governance",
+      "composite_score": 0.7204,
+      "signal_scores": {
+        "subject": 0.6667,
+        "sop": 0.9053,
+        "experience": 0.3508,
+        "strengths": 1.0
+      },
+      "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. SOP references: ehr, interoperability, fhir. 2 years of relevant experience reinforces this fit. Strengths (Creativity, Judgment, Curiosity) align with this track's profile."
+    },
+    {
+      "rank": 2,
+      "track_id": "T11",
+      "track_name": "Healthcare Entrepreneurship, Product & Innovation",
+      "composite_score": 0.4799,
+      "signal_scores": {
+        "subject": 0.6667,
+        "sop": 0.4283,
+        "experience": 0.1081,
+        "strengths": 0.75
+      },
+      "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. SOP references: startup, build. Strengths (Creativity, Perseverance, Curiosity) align with this track's profile."
+    },
+    {
+      "rank": 3,
+      "track_id": "T06",
+      "track_name": "Population Health Analytics, Epidemiology & Outcomes Research",
+      "composite_score": 0.45,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.0,
+        "experience": 0.0,
+        "strengths": 1.0
+      },
+      "rationale": "Academic background in Information Technology, Quant & Analytical aligns with this track. Strengths (Perseverance, Judgment, Curiosity) align with this track's profile."
+    }
+  ]
+}

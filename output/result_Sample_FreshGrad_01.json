@@ -1,0 +1,45 @@
+{
+  "candidate_id": "Sample_FreshGrad_01",
+  "recommended_degree": "MHA",
+  "top_career_tracks": [
+    {
+      "rank": 1,
+      "track_id": "T01",
+      "track_name": "Healthcare Administration, Operations, Quality & Risk",
+      "composite_score": 0.5997,
+      "signal_scores": {
+        "subject": 0.6667,
+        "sop": 0.8326,
+        "experience": 0.0,
+        "strengths": 0.75
+      },
+      "rationale": "Academic background in Life Sciences, Health & Clinical, Physical Sciences aligns with this track. SOP references: administrative leadership, quality improvement, hospital. Strengths (Judgment, Leadership, Perspective) align with this track's profile."
+    },
+    {
+      "rank": 2,
+      "track_id": "T04",
+      "track_name": "Behavioral Health & Human Services Management",
+      "composite_score": 0.375,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.0,
+        "experience": 0.0,
+        "strengths": 0.25
+      },
+      "rationale": "Academic background in Life Sciences, Health & Clinical, Physical Sciences aligns with this track."
+    },
+    {
+      "rank": 3,
+      "track_id": "T08",
+      "track_name": "Environmental, Occupational & Climate Health",
+      "composite_score": 0.35,
+      "signal_scores": {
+        "subject": 1.0,
+        "sop": 0.0,
+        "experience": 0.0,
+        "strengths": 0.0
+      },
+      "rationale": "Academic background in Life Sciences, Health & Clinical, Physical Sciences aligns with this track."
+    }
+  ]
+}
